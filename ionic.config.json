@@ -1,0 +1,7 @@
+{
+  "name": "email-status-tool",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">email-status-tool</string>
+    <string name="title_activity_main">email-status-tool</string>
+    <string name="package_name">com.stafford.vite.capacitor</string>
+    <string name="custom_url_scheme">com.stafford.vite.capacitor</string>
+</resources>
